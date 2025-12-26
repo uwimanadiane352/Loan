@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# ML models
+*.pkl
+
+# XAMPP / system
+.DS_Store
+Thumbs.db
